@@ -1,4 +1,4 @@
-# webapp-assignment1dertyui
+# webapp-assignment1
 
 Create As a user, I want to create an account by providing the following information.
   1.  Email Address
